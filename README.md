@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/?usp=sharing)
+analysis draft: [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/?usp=sharing](https://colab.research.google.com/drive/1dQ3Z77PpAnjYbuTD36f9MY9wIq8OuKn_#scrollTo=MgY-a-W_P06r))
 
 # Decision-margin consistency: a principled metric for human and machine performance alignment
 
