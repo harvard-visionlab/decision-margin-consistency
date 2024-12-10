@@ -4,7 +4,7 @@
 [George A. Alvarez](https://visionlab.harvard.edu/george/)\* $^{1,2,4}$, [Talia Konkle](https://konklab.fas.harvard.edu/)\* $^{1,2,3}$
 (*equal contribution)
 
-$^1$ Harvard University, $^2$[Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), $^3$[Center For Brain Science](https://cbs.fas.harvard.edu/), $^4$[Vision-Sciences Laboratory](https://visionlab.harvard.edu/)
+$^1$ [Harvard University](https://www.harvard.edu/), $^2$ [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), $^3$ [Center For Brain Science](https://cbs.fas.harvard.edu/), $^4$ [Vision-Sciences Laboratory](https://visionlab.harvard.edu/)
 <br>
 
 # Decision-margin consistency: a principled metric for human and machine performance alignment
