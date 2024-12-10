@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rbb2xDQCmvWB-2UMNV7H8BNaQ5P9aScJ?usp=sharing)
 
-[George A. Alvarez](https://visionlab.harvard.edu/george/)\* $^{1,2,4}$ [Talia Konkle](https://konklab.fas.harvard.edu/)\* $^{1,2,3}$, 
+[George A. Alvarez](https://visionlab.harvard.edu/george/)\* $^{1,2,4}$, [Talia Konkle](https://konklab.fas.harvard.edu/)\* $^{1,2,3}$
 (*equal contribution)
 
 $^1$ Harvard University, $^2$ Kempner Institute for the Study of Natural and Artificial Intelligience, $^3$ Center For Brain Science, $^4$ Vision-Sciences Laboratory
