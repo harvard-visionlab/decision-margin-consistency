@@ -20,14 +20,6 @@ This repository contains the data + anlayses for our [decision-margin-consistenc
 
 If you find our work or any of our materials useful, please cite our paper:
 ```
-@inproceedings{konkle2023cognitive,
-  title={Cognitive Steering in Deep Neural Networks via Long-Range Modulatory Feedback Connections},
-  author={Konkle, Talia and Alvarez, George A},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-  year={2023}
-  url={https://openreview.net/forum?id=FCIj5KMn2m}
-}
-
 @inproceedings{alvarez2024decision,
   title={Decision-margin consistency: a principled metric for human and machine performance alignment},
   author={Alvarez, George A and Konkle, Talia},
