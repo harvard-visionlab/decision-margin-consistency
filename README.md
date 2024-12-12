@@ -1,6 +1,8 @@
 
 [Paper](https://openreview.net/forum?id=y2FPllMQVg) | [Bibtex](#bibtex)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iMycNR5rTfEtRheJfd0-HjAz3TKRD8xx?usp=sharing)
+
 [George A. Alvarez](https://visionlab.harvard.edu/george/)\* $^{1,2,4}$, [Talia Konkle](https://konklab.fas.harvard.edu/)\* $^{1,2,3}$
 (*equal contribution)
 
