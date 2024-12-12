@@ -19,7 +19,7 @@ This repository contains the analysis code for our [decision-margin-consistency 
 
 ## Usage
 
-The decision margin is a measure of how far a representation is from the decision boundary - items that are further from the decision boundary have more evidence for the correct response relative to incorrect responses are are thus easier decisions. Decision-margin consistency is the pearson correlation between the decision-margins for two different decision makers across the same set of items (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). 
+The decision margin is a measure of how far a representation is from the decision boundary - items that are further from the decision boundary have more evidence for the correct response relative to incorrect responses, and are thus easier decisions. Decision-margin consistency is the pearson correlation between the decision-margins for two different decision makers across the same set of items (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). 
 
 For model vs. model comparisons using decision-margin consistency, see the [colab notebook](https://colab.research.google.com/drive/1iMycNR5rTfEtRheJfd0-HjAz3TKRD8xx?usp=sharing) or the [demo notebook](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/demo_model_vs_model.ipynb) in this repo. 
 
