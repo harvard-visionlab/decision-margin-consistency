@@ -21,7 +21,7 @@ This repository contains the data + anlayses for our [decision-margin-consistenc
 
 The decision margin is a measure of how far a representation is from the decision boundary - easier decisions will be further from the decision boundary. Decision-margin consistency is the pearson correlation between the decision-margins for two different decision makers across the same set of items (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). 
 
-For model vs. model comparisons using decision-margin consistency, see the [collab notebook](https://colab.research.google.com/drive/1rbb2xDQCmvWB-2UMNV7H8BNaQ5P9aScJ?usp=sharing) or the [demo notebook](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/demo_model_vs_model.ipynb) in this repo. 
+For model vs. model comparisons using decision-margin consistency, see the [collab notebook](https://colab.research.google.com/drive/1iMycNR5rTfEtRheJfd0-HjAz3TKRD8xx?usp=sharing) or the [demo notebook](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/demo_model_vs_model.ipynb) in this repo. 
 
 For analyses involving humans, percent correct for an item (averaged across trial repetitions and/or subjects), can be taken as an index of the decision-margin distance (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). See the [edge image analysis](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/edge_data_analysis.ipynb) notebook for analyses reported in the paper.
 
