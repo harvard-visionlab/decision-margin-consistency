@@ -13,7 +13,37 @@ Understanding the alignment between human and machine perceptual decision- makin
 
 ## Contents
 
-This repository contains the data + anlayses for our [decision-margin-consistency paper](https://openreview.net/pdf?id=y2FPllMQVg). 
+This repository contains the data + anlayses for our [decision-margin-consistency paper](https://openreview.net/pdf?id=y2FPllMQVg) paper.
+
+## Usage
+
+The decision margin is a measure of how far a representation is from the decision boundary - easier decisions will be further from the decision boundary. Decision-margin consistency is the pearson correlation between the decision-margins for two different decision makers across the same set of items (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). 
+
+For model vs. model comparisons using decision-margin consistency, see the [demo notebook](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/demo_model_vs_model.ipynb). 
+
+For analyses involving humans, percent correct for an item (averaged across trial repetitions and/or subjects), can be taken as an index of the decision-margin distance (see [paper](https://openreview.net/forum?id=y2FPllMQVg) for details). See the [edge image analysis](https://github.com/harvard-visionlab/decision-margin-consistency/blob/main/notebooks/edge_data_analysis.ipynb) notebook for analyses reported in the paper.
+
+To run these notebooks locally, you can clone this repo and install the project (dependencies are not automatically installed, so you'll need to install torch, torchvision, scipy, numpy, pandas, and natsort).
+```
+git clone https://github.com/harvard-visionlab/decision-margin-consistency.git
+cd decision-margin-consistency
+python -m pip install .
+```
+
+Or you install from github:
+```
+pip install git+https://github.com/harvard-visionlab/decision-margin-consistency.git
+```
+
+Then you can import/use the decision-margin-consistency validation and consistency functions.
+```
+from decision_margin_consistency import validation, compute_consistency
+
+df1 = validation(model1, dataset, meta=dict(subj='model1', condition='testing'))
+df2 = validation(model2, dataset, meta=dict(subj='model2', condition='testing'))
+con = compute_consistency(df1, df2)
+```
+
 
 <a name="bibtex"></a>
 ## Citation
