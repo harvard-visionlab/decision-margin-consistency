@@ -15,7 +15,7 @@ Understanding the alignment between human and machine perceptual decision- makin
 
 ## Contents
 
-This repository contains the data + anlayses for our [decision-margin-consistency paper](https://openreview.net/pdf?id=y2FPllMQVg) paper.
+This repository contains the analysis code for our [decision-margin-consistency paper](https://openreview.net/pdf?id=y2FPllMQVg) paper. Note that the behavioral data are downloaded from a url by the scripts (not stored directly in the repository).
 
 ## Usage
 
